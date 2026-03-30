@@ -4,5 +4,5 @@
 | Date       | Category           | Problems                          | Key Learnings |
 |------------|-------------------|----------------------------------|--------------|
 | 2026-03-29 | Strings (Core)    | Palindrome, Reverse String       | Refreshed two-pointer approach |
-| 2026-03-29 | Strings (Core)    | Character Frequency              | Used hashmap efficiently |
+| 2026-03-30 | Strings (Core)    | Reverse String using (rcursion,stack and two pointers              | Understood time and space complexity revised stack flow and dry runs Thinking in multiple ways |
 | 2026-03-29 | Strings (Core)    | Anagram Check                    | Compared frequency arrays |
