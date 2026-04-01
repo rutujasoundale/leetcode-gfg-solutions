@@ -1,18 +1,20 @@
 
----
-
-
-```md
 # 🔤 Unique Letter String
 
+---
 
 ## 🖼️ Explanation Images
 
 ![Approach](images/uniquecharacter.jpeg)
 
 ![Dry Run](images/dryrununiquecharacter.jpeg)
+
 ---
+
 ```java
+
+import java.util.*;
+
 
 class Solution {
     public int uniqueLetterString(String s) {
