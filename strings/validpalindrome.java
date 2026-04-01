@@ -41,3 +41,9 @@ class validpalindrome {
 
     }
 }
+//Another Brute force method is to create a array 
+//traverse using i and j 
+//int[] freq=new int[26];
+//generate all substrings
+//for each substring count character that appears only once
+
