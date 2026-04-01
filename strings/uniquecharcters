@@ -1,9 +1,18 @@
-```bash
+
+---
+
+
+```md
+# 🔤 Unique Letter String
+
+## 🖼️ Explanation Images
 
 ![Image 1](WhatsApp%20Image%202026-04-01%20at%201.16.14%20PM%20(1).jpeg)
 
 ![Image 2](WhatsApp%20Image%202026-04-01%20at%201.16.14%20PM.jpeg)
-```
+
+---
+
 class Solution {
     public int uniqueLetterString(String s) {
         //Use two arrays 
