@@ -20,3 +20,5 @@ class Solution {
     }
 }
 ```
+![Approach](images/countspecial.jpeg)
+
