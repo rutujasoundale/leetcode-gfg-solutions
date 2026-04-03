@@ -27,4 +27,4 @@ class Solution {
 
 }
 ```
-![Approach+Dry Run](images/541.png)
+![Approach+Dry Run](images/541.jpeg)
