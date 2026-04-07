@@ -11,7 +11,7 @@
 | 2026-04-04 | Strings (Core)    | Anagram check,revised two pointers      | Revised anagram multiple approaches(using sorting) , frq array and two pass |
 | 2026-04-05 | Strings (Core)    | revised and dry run (busy day)     | Kept going with momentum |
 | 2026-04-06 | Strings (Core)    | Submission day     | Busy with School work|
-| 2026-04-07 | Strings (Core)    | Remove duplicates from a string(multiple approaches),String to Integer (atoi function) |Revised hashset by solving remove duplicates,Important that solving frq array gives you O(1) space as space alphabet size is constant,Skip any leading whitespaces.Check for a sign (‘+’ or ‘-‘), default to positive if no sign is present.Read the integer by ignoring leading zeros until a non-digit character is encountered or end of the string is reached. If no digits are present, return 0.If the integer is greaterthan 231 – 1, then return 231 – 1 and if the integer is smaller than -231, then return -231.|
+| 2026-04-07 | Strings (Core)    | Remove duplicates from a string(multiple approaches),String to Integer (atoi function) |Revised hashset by solving remove duplicates,Important that solving frq array gives you O(1) space as space alphabet size is constant,Skip any leading whitespaces.Check for a sign (‘+’ or ‘-‘), default to positive if no sign is present.Read the integer by ignoring leading zeros until a non-digit character is encountered or end of the string is reached. If no digits are present, return 0.If the integer is greaterthan 2^31 – 1, then return 2^31 – 1 and if the integer is smaller than -2^31, then return -2^31.|
  
 
 
