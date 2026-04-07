@@ -8,4 +8,13 @@
 | 2026-04-01 | Strings (core)   | leetcode hard 828 count-unique-characters-of-all-substrings-of-a-given-string                  | brute force O(n^2) +vscontribution based approachO(n),undersood contribution technique → (current - previous) × (next - current) and dry run ABA and AAB  |
 | 2026-04-02 | Strings(core)    |  828.Count Unique Characters Of All Substrings     |Learnt about Brute force approach in which two times traversing ,Optimal approach in which track two occurances of each character last and second last ,calculate contribution (is there or not)if not then add contribution = (i-prev)*(next-i)left choiceright choice,then do a final pass for remaining elemets ,dry runned with ABA and AaB   |
 | 2026-04-03 | Strings (Core)    | Count the no. of Special characters,Reverse string 2       |revised hashset approach (HAshset stores 52 chars(A-Z)(a-z))O(1)-space complexity,check for every element if its lowercase alredy exist if exist then increase freq,IMPORTANT(Optimal approach for Reverse string 2 simple steps (convert to char array,then traverse with i and jump with 2k ,Two pointers (but with safe approach),Reversing only k characters in each chunk,When k>characters return as it is array so play right smartly left=i but right=min(i+k-1,s.length()-1),dry run done|
-| 2026-04-04 | Strings (Core)    | Anagram check,remove duplicates      | Revised anagram multiple approaches(using sorting) , frq array and two pass |
+| 2026-04-04 | Strings (Core)    | Anagram check,revised two pointers      | Revised anagram multiple approaches(using sorting) , frq array and two pass |
+| 2026-04-05 | Strings (Core)    | revised and dry run (busy day)     | Kept going with momentum |
+| 2026-04-06 | Strings (Core)    | Submission day     | Busy with School work|
+| 2026-04-07 | Strings (Core)    | Remove duplicates from a string(multiple approaches),String to Integer (atoi function)      |Revised hashset by solving remove duplicates,Important that solving frq array gives you O(1) space as space alphabet size is constant,Skip any leading whitespaces.
+Check for a sign (‘+’ or ‘-‘), default to positive if no sign is present.
+Read the integer by ignoring leading zeros until a non-digit character is encountered or end of the string is reached. If no digits are present, return 0.
+If the integer is greater than 231 – 1, then return 231 – 1 and if the integer is smaller than -231, then return -231.
+ |
+
+
