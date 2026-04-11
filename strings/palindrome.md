@@ -1,3 +1,4 @@
+```java
 class validpalindrome {
     public boolean isPalindrome(String s) {
         //
@@ -41,3 +42,4 @@ class validpalindrome {
 
     }
 }
+```
