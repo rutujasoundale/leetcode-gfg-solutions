@@ -14,6 +14,7 @@
 | 2026-04-07 | Strings (Core)    | Remove duplicates from a string(multiple approaches),String to Integer (atoi function) |Revised hashset by solving remove duplicates,Important that solving frq array gives you O(1) space as space alphabet size is constant,Skip any leading whitespaces.Check for a sign (‘+’ or ‘-‘), default to positive if no sign is present.Read the integer by ignoring leading zeros until a non-digit character is encountered or end of the string is reached. If no digits are present, return 0.If the integer is greaterthan 2^31 – 1, then return 2^31 – 1 and if the integer is smaller than -2^31, then return -2^31.|
  | 2026-04-08 | Strings(core)+light recursion    |Reverse string ,palindrome check     |Revised two pinters approach ,Revised recursion approach  |
 | 2026-04-12 | Strings (Core)    | Valid Anagram     |Solved using Naive (sorting) approach to reduce space Optimized using freq array or Hashmap,revised hashmap and dry runned  |
+| 2026-04-13 | Strings (Core) +Hashmaps+Sliding Window   |Longest Substring withut Repeating characters       | Refreshed sliding window approach Solved with brute force then Optimized using Sliding window,dry runned |
 
 
 
