@@ -15,7 +15,6 @@
  | 2026-04-08 | Strings(core)+light recursion    |Reverse string ,palindrome check     |Revised two pinters approach ,Revised recursion approach  |
 | 2026-04-12 | Strings (Core)    | Valid Anagram     |Solved using Naive (sorting) approach to reduce space Optimized using freq array or Hashmap,revised hashmap and dry runned  |
 | 2026-04-13 | Strings (Core) +Hashmaps+Sliding Window   |Longest Substring withut Repeating characters       | Refreshed sliding window approach Solved with brute force then Optimized using Sliding window,dry runned |
-| 2026-03-29 | Strings (Core)    | Palindrome, Reverse String       | Refreshed two-pointer approach |
-| 2026-03-29 | Strings (Core) | Array String Equality | Two-pointer traversal,Join method in java |
+| 2026-04-15 | Strings (Core) | Array String Equality | Two-pointer traversal,Join method in java |
 
 
