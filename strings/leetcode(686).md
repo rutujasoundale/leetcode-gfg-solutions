@@ -58,18 +58,18 @@ class Solution {
 }
 ```
 Further more optimized using KMP
-🧠 What is KMP?
+ What is KMP?
 
 KMP (Knuth–Morris–Pratt) is a string matching algorithm used to find:
 
 “Does pattern B exist inside string A?”
 
-🔥 Core idea:
+ Core idea:
 
 Instead of re-checking characters again and again,
-👉 KMP remembers previous matches and skips unnecessary comparisons.
+ KMP remembers previous matches and skips unnecessary comparisons.
 
-⚡ Why normal approach is slow?
+ Why normal approach is slow?
 
 Normal contains() (brute force):
 
@@ -81,7 +81,7 @@ Time = O(n * m) ❌
 
 KMP builds something called:
 
-👉 LPS (Longest Prefix = Suffix)
+ LPS (Longest Prefix = Suffix)
 
 This tells:
 
@@ -97,13 +97,13 @@ Index:   0 1 2 3
 Chars:   a a a b
 LPS:     0 1 2 0
 
-👉 Meaning:
+ Meaning:
 
 If mismatch at index 3 (b)
 Don’t go back to 0
 Jump to index 2
 
-💥 This avoids rechecking characters
+ This avoids rechecking characters
 
 ⏱️ Complexity
 Time: O(n + m) ✅
