@@ -1,6 +1,7 @@
-```java
+
 Brute force
 Use contacatenation+each checking
+```java
 class Solution {
     public int repeatedStringMatch(String a, String b) {
         //The idea is simple to concate and check everytime 
