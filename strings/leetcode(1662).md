@@ -3,6 +3,7 @@
 
 class Solution {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
+//Using join method
         // String word3=String.join("", word1);
         // String word4=String.join("", word2);
 
