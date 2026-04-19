@@ -18,3 +18,4 @@
 | 2026-04-15 | Strings (Core) | Array String Equality | Two-pointer traversal,Join method in java |
 | 2026-04-16 | Strings (Core) | Revised number systems+Gates, Repeated String Match,KMP (intro) |  controlled repetition, LPS intuition |
 | 2026-04-17 | Strings (Core) | Merge Strings Alternately | Two pointers + StringBuilder, handle leftover |
+|2026-04-18| Strings revision|Revised reverse string,count no. of special characters and unique characters |Learned and revised two pointers approach dry runned , Solved hash based problem using hashing,revised recursion theory|
